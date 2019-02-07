@@ -1,4 +1,6 @@
 # wp-maxCounter
-maxCounter is a counter plugin for WordPress.
+wp-maxCounter is a counter plugin for WordPress (under developing).
 
 Demo: http://makalamin.com/plugins/wp-maxCounter
+
+Use this Shortcode to display: [maxCountDown]
